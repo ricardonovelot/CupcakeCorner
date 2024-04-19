@@ -1,4 +1,4 @@
-# CupcakeCorner - SwiftUI Day 52 Challenge
+# CupcakeCorner
 
 <table>
 <tr>
@@ -6,7 +6,7 @@
 
 ## About the Project
 
-CupcakeCorner, a project developed for the Day 52 challenge in the "100 Days with SwiftUI" course, is an app designed to showcase the power of SwiftUI in handling web requests, form validations, and more. Through the app, users can order custom cupcakes, choosing flavors, quantity, and additional decorations. Key features like loading images from a remote server, form validation, and sending/receiving Codable data with URLSession demonstrate the app's integration with web technologies.
+Through CupcakeCorner users can order custom cupcakes, choosing flavors, quantity, and additional decorations. Key features like loading images from a remote server, form validation, and sending/receiving Codable data with URLSession demonstrate the app's integration with web technologies.
 
 ### Features
 
@@ -15,7 +15,7 @@ CupcakeCorner, a project developed for the Day 52 challenge in the "100 Days wit
 - **Form Validation:** Ensures that all user input is valid before allowing the order to be placed, including checking for a valid address.
 - **Networking:** Uses URLSession to send and receive orders over the internet, showcasing how to handle Codable data in a SwiftUI application.
 
-### Learning Highlights
+### Technical Highlights
 
 This project focuses on advanced SwiftUI and Swift topics, including:
 - Networking with URLSession to send and receive Codable data.
