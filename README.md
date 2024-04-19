@@ -25,8 +25,8 @@ This project focuses on advanced SwiftUI and Swift topics, including:
 
 </td>
 <td>
-  
-![exportE1843000-AB61-4AB8-BF66-89127103BCB6](https://github.com/ricardonovelot/CupcakeCorner/assets/84286086/141280f6-295e-4b3e-82a5-80e13c7ee9ea)
+
+  ![311896639-141280f6-295e-4b3e-82a5-80e13c7ee9ea-2](https://github.com/ricardonovelot/CupcakeCorner/assets/84286086/bb06f24a-c1c0-4747-9a6e-aab632c614ba)
 
 </td>
 </tr>
@@ -51,3 +51,18 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 "100 Days with SwiftUI" for the challenge and comprehensive guidance.
 The SwiftUI and Swift community for ongoing support and inspiration.
+
+## Interactive Preview
+<table style="border: none;">
+<tr style="border: none;">
+  <td style="border: none;">
+  </td>
+  <td width="34%" style="border: none;">
+
+    ![exportE1843000-AB61-4AB8-BF66-89127103BCB6](https://github.com/ricardonovelot/CupcakeCorner/assets/84286086/141280f6-295e-4b3e-82a5-80e13c7ee9ea)
+
+ </td>
+  <td>
+  </td>
+</tr>
+</table>
